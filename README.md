@@ -105,3 +105,6 @@ I found that designing Draw It or Lose It for cloud deployment encouraged me to 
 🏁 Final Takeaway
 Building Draw It or Lose It has given me hands-on experience with REST APIs, memory and storage management, and distributed system architecture.
 Through this project, I learned how to take client requirements, document them clearly, and translate them into a working technical design that could scale and adapt across multiple platforms
+
+
+© 2025 Ashley Pleasant – Created for SNHU CS-230: Operating Platforms
