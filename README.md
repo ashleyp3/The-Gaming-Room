@@ -107,4 +107,4 @@ Building Draw It or Lose It has given me hands-on experience with REST APIs, mem
 Through this project, I learned how to take client requirements, document them clearly, and translate them into a working technical design that could scale and adapt across multiple platforms
 
 
-© 2025 Ashley Pleasant – Created for SNHU CS-230: Operating Platforms
+*© 2025 Ashley Pleasant – Created for SNHU CS-230: Operating Platforms*
